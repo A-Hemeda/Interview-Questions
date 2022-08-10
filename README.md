@@ -14,4 +14,4 @@
 
 # 📱 Screenshots #
 
-![A Hemeda](https://user-images.githubusercontent.com/101954795/183910392-17f09683-cf5a-472a-b7da-834fc840ff32.jpg)
+![A Hemeda](https://user-images.githubusercontent.com/101954795/183913414-acafe059-526c-4d6c-9746-4c18a9fd1e7b.jpg)
