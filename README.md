@@ -8,6 +8,10 @@
   
 </h1>
 
+<p align="center">
+ <a href='https://play.google.com/store/apps/details?id=com.hemeda.azkary'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=115px width=310px/></a>
+</p>
+
 # 📱 Screenshots #
 
-![Ahmed Hemeda](https://user-images.githubusercontent.com/101954795/181933003-e30f5c5e-32b1-41f3-81af-3f90906bee6f.jpg)
+![A Hemeda](https://user-images.githubusercontent.com/101954795/183908708-79e20f04-1a15-4791-baf7-addea8f94f7f.jpg)
