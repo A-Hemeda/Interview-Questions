@@ -4,7 +4,7 @@
 
   <br>
   
-  Azkar
+  Azkary
   
 </h1>
 
