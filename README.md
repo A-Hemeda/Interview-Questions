@@ -5,12 +5,15 @@
   <br>
   
   Azkary
-  
 </h1>
 
 <p align="center">
  <a href='https://play.google.com/store/apps/details?id=com.hemeda.azkary'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=115px width=310px/></a>
 </p>
+
+<h4>
+ تطبيق أذكار شامل قائمة للمفضلات وسبحة وأدعية
+</h4>
 
 # 📱 Screenshots #
 
