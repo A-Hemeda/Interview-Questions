@@ -1,0 +1,48 @@
+{
+    "home_bar" : "الصفحة الرئيسية",
+    "search_bar" : "البحث",
+    "settings_bar" : "الضبط",
+    "favorite_bar" : "المفضلة",
+    "prayer_bar" : "دعاء من القرآن",
+    "sebha_bar" : "المسبحة الإلكترونية",
+    "asmaallah_bar" : "أسماء الله الحسني",
+    "all_categories" : "كل الأذكار",
+
+    "search_for_zekr" : "إبحث عن ذكر",
+    "search_for_asmaallah" : "إبحث عن إسم من أسماء الله",
+    
+    "zekr_repeated_once" : "مرة واحدة",    
+    
+    "sebha_add_dialog" : "إضافة ذكر إلي المسبحة",
+    "sebha_edit_dialog" : "تعديل الذكر",
+    "sebha_error_massage_name" : "أدخل إسماً صالحاً",
+    "sebha_error_massage_counter" : "أدخل رقماً بين 0 : 999",
+    "sebha_hint_text_tasbih" : "الذكر",
+    "sebha_hint_text_counter" : "عدد الحبات",
+    "sebha_delete_dialog_title" : "حذف الذكر",
+    "sebha_delete_dialog_subtitle" : "هل أنت متأكد من أنك تريد حذف الذكر ؟",
+    
+    "popup_menu" : "قائمة الخيارات",
+    "popup_menu_aya_false" : "عرض كل الآيات",
+    "popup_menu_aya_true" : "تم عرض كل الآيات",    
+    "popup_menu_asmaallah_false" : "عرض معاني كل الأسماء",
+    "popup_menu_asmaallah_true" : "تم عرض معاني كل الأسماء",
+    "popup_menu_favorite_false" : "الإضافة إلي المفضلة",
+    "popup_menu_favorite_true" : "تم الإضافة إلي المفضلة",
+    "popup_menu_counter_false" : "تشغيل العداد",
+    "popup_menu_counter_true" : "تم تشغيل العداد",
+    "popup_menu_diacritics_false" : "وضع التشكيل",
+    "popup_menu_diacritics_true" : "تم وضع التشكيل",
+    "popup_menu_sanad_false" : "عرض السند للأذكار",
+    "popup_menu_sanad_true" : "تم عرض السند للأذكار",
+    "popup_menu_refresh" : "تصفير العداد",
+    
+    "done_copy" : "تم النسخ إلي الحافظة",
+    "delete" : "حذف",
+    "add" : "إضافة",
+    "edit" : "تعديل",
+    "copy" : "نسخ",
+    "cancle" : "إلغاء",
+    "about" : "حول"
+   
+}
