@@ -1,4 +1,4 @@
-# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Interview Questions
 
 ### Table of Contents
 
@@ -636,7 +636,3 @@
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
-
-### License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
