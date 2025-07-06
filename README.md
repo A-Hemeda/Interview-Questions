@@ -58,6 +58,7 @@
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
+    
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
@@ -65,6 +66,7 @@
 - [OS](#os)
   - [Linux](#linux)
   - [Windows](#windows)
+    
 - [Algorithms](#algorithms)
 - [Blockchain](#blockchain)
 - [Coding exercises](#coding-exercises)
@@ -75,9 +77,9 @@
 - [Security](#security)
 - [Data Science](#data-science)
 
-## Programming Languages/Frameworks/Platforms
+# Programming Languages/Frameworks/Platforms
 
-### Android
+## Android
 
 * [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
 * [20 Essential Android Interview Questions from Toptal](http://www.toptal.com/android/interview-questions)
