@@ -1,6 +1,6 @@
 # Interview Questions
 
-### Table of Contents
+## Table of Contents
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
