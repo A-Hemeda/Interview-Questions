@@ -223,22 +223,26 @@
 * [8 Essential Emberjs Interview Questions from Toptal](http://www.toptal.com/emberjs/interview-questions)
 * [Top 25 Emberjs Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-25-ember-js-interview-questions/)
 
-### Erlang
+
+## Erlang
 
 * [Top 22 Erlang Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-22-erlang-interview-questions/)
 
-### Golang
+
+## Golang
 
 * [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 
-### GraphQl
+
+## GraphQl
 
 * [8 GraphQl Interview Questions To Know](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know)
 * [How to GraphQl - Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
 
-### HTML
+
+## HTML
 
 * [10 Typical HTML Interview Exercises from SitePoint.com](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [16 Essential HTML5 Interview Questions from Toptal](http://www.toptal.com/html5/interview-questions)
@@ -250,14 +254,16 @@
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
 
-### Ionic
+
+## Ionic
 
 * [23 Beginner Level Ionic Framework Questions](http://www.codeandyou.com/p/ionic-interview-questions.html)
 * [12 Essential Ionic Interview Questions](https://www.toptal.com/ionic/interview-questions)
 * [45 Ionic Interview Questions](https://www.javatpoint.com/ionic-interview-questions)
 * [Most Asked Ionic Interview Questions](https://www.maheshbhusanoor.com/article/ionic-interview-questions-answers.html)
 
-### iOS
+
+## iOS
 
 * [14 Essential iOS Interview Questions from Toptal](http://www.toptal.com/ios/interview-questions)
 * [20 iOS Developer Interview Questions and Answers for getting you ready for your interview](https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c)
@@ -280,7 +286,8 @@
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 * [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
 
-### Java
+
+## Java
 
 * [List of Java programs for interview Categoriwise](https://onurdesk.com/category/interview/interview-program-java/)
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
@@ -302,7 +309,8 @@
 * [Essetial Java Interview Questions](https://fdk.codes/some-java-interview-questions/)
 * [Fundamental Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
 
-### JavaScript
+
+## JavaScript
 
 * [Practice common algorithms using JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
@@ -330,7 +338,8 @@
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
-### jQuery
+
+## jQuery
 
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
 * [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
