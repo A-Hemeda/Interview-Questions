@@ -424,7 +424,8 @@
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
 * [Top 100 Python Interview Questions from Edureka (2021)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
-### Ruby on Rails
+
+## Ruby on Rails
 
 * [20 Ruby on Rails interview questions and answers from CareerRide.com](http://www.careerride.com/ruby-on-rails-interview-questions.aspx)
 * [9 Essential Ruby on Rails Interview Questions from Toptal](http://www.toptal.com/ruby-on-rails/interview-questions)
@@ -435,7 +436,8 @@
 * [Top 53 Ruby on Rails Interview Questions & Answers](https://career.guru99.com/top-34-ruby-on-rail-interview-questions/)
 * [10 Ruby on Rails interview questions and answers](https://www.upwork.com/i/interview-questions/ruby-on-rails/)
 
-### ReactJS
+
+## ReactJS
 
 * [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
@@ -444,7 +446,8 @@
 * [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
 * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
-### Ruby
+
+## Ruby
 
 * [21 Essential Ruby Interview Questions from Toptal](http://www.toptal.com/ruby/interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
@@ -453,7 +456,8 @@
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 * [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
 
-### Rust
+
+## Rust
 
 * [Top 250+ Rust Programming Language Interview Questions](https://www.wisdomjobs.com/e-university/rust-programming-language-interview-questions.html)
 * [Rust Programming Interview Questions and Answers](https://www.code-sample.com/2018/02/rust-programming-interview-questions.html)
@@ -461,12 +465,13 @@
 * [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
 
-### Sass
+## Sass
 
 * [Top 17 Sass Interview Questions from Career Guru](http://career.guru99.com/top-17-sass-interview-questions/)
 * [Top 10 Sass Interview Questions from educba](https://www.educba.com/sass-interview-questions/)
 
-### Scala
+
+## Scala
 
 * [4 Interview Questions for Scala Developers](http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/)
 * [A list of Frequently Asked Questions and their answers, sorted by category](http://www.scala-lang.org/old/faq)
@@ -474,20 +479,24 @@
 * [How Scala Developers Are Being Interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed)
 * [Top 25 Scala Interview Questions & Answers from Toptal](http://career.guru99.com/top-25-interview-questions-on-scala/)
 
-### SharePoint
+
+## SharePoint
 
 * [Sharepoint Interview Question For Developer](http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html)
 * [Top SharePoint Interview Questions and Answers](https://intellipaat.com/blog/interview-question/sharepoint-interview-questions/)
 
-### Shell
+
+## Shell
 
 * [Top 50 Shell Scripting Interview Questions from Career Guru](http://career.guru99.com/shell-scripting-interview-questions/)
 
-### Spark
+
+## Spark
 
 * [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
-### Swift
+
+## Swift
 
 * [10 Essential Swift Interview Questions from Toptal](http://www.toptal.com/swift/interview-questions)
 * [Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 5](https://github.com/diwu/LeetCode-Solutions-in-Swift)
@@ -497,19 +506,23 @@
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
 
-### Vue.js
+
+## Vue.js
 * [List of 300 VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 
-### WordPress
+
+## WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 * [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
-### TypeScript
+
+## TypeScript
 
 * [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 * [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
-## Database technologies
+
+# Database technologies
 
 
 ### Cassandra
