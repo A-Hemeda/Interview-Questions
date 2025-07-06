@@ -48,6 +48,7 @@
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
 
+
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -58,14 +59,17 @@
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
+
     
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
 
+
 - [OS](#os)
   - [Linux](#linux)
   - [Windows](#windows)
+
     
 - [Algorithms](#algorithms)
 - [Blockchain](#blockchain)
@@ -76,6 +80,7 @@
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
+
 
 # Programming Languages/Frameworks/Platforms
 
@@ -94,7 +99,8 @@
 * [Interview Questions for Senior Android Developers](https://github.com/mohsenoid/Android-Interview-Questions)
 * [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
-### AngularJS
+
+## AngularJS
 
 * [12 Essential AngularJS Interview Questions from Toptal](http://www.toptal.com/angular-js/interview-questions)
 * [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
