@@ -9,7 +9,7 @@
   - [BackboneJS](#backbonejs)
   - [C++](#c)
   - [C](#c-1)
-  - [C♯](#c-2)
+  - [C#](#c-2)
   - [.NET](#net)
   - [Clojure](#clojure)
   - [CSS](#css)
