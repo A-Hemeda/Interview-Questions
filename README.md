@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
+- [Programming Languages / Frameworks / Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
   - [AngularJS](#angularjs)
   - [Angular](#angular)
@@ -712,4 +712,5 @@
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
+
 
